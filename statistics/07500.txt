@@ -1,0 +1,21 @@
+Articles    : 7500
+Paragraphs  : 64306
+Sentences   : 1097561
+Lists       : 5658
+List-items  : 89403
+Page Links  : 141644
+Unique Links: 20213
+Words       : 6993353
+
+Top Ten Links
+-------------
+dressed: 7503 
+lifted : 4665 
+hopes  : 3979 
+suffer : 3375 
+noise  : 2276 
+smiling: 1547 
+rode   : 1435 
+tells  : 1306 
+minds  : 1142 
+farther: 1127 
