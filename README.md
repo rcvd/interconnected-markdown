@@ -1,6 +1,6 @@
 # Interconnected Markdown
 ## What is it?
-This repository provides a large library of 10.0000 pseudo-english markdown files which are heavily interconnected with [[page links]]. These can be used for performance and regression testing of markdown libraries and applications.
+This repository provides a large library of 10.000 pseudo-english markdown files which are heavily interconnected with [[page links]]. These can be used for performance and regression testing of markdown libraries and applications.
 
 If you want to know more about how these haven been generated, please continue reading [here](https://www.goedel.io/p/tft-performance-methodology).
 
